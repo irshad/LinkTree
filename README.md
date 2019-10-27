@@ -10,5 +10,5 @@
  
  📚 YOU CAN USE THIS FOR FREE  🎊🎉🎉🎊
  
- # Demo :<span> https://mylinks.netlify.com </span>
+ # Demo : https://mylinks.netlify.com
  
