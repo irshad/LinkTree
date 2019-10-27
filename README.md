@@ -8,7 +8,7 @@
  
  📧 Phonerefer@gmail.com
  
- 📚 YOU CAN USE THIS FOR FREE  🎊🎉🎉🎊
+ 🎉YOU CAN USE THIS FOR FREE🎉
  
  💻 https://mylinks.netlify.com
  
