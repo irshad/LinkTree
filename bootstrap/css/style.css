@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h5{
+    color: #17a2b8;
+}
+.name{
+    color: #17a2b8;
+}
+.love{
+    color: #17a2b8 !important;
+}
+/*----------------- Mail-------------------- */
+#email{
+    text-decoration: none;
+    float: right;
+    color:#17a2b8;
+}
+.footer{
+    margin-top: 5% !important;
+    margin-bottom: 10px;
+}
+@media (max-width: 479px) {
+    .footer{
+        margin-top: 35% !important;
+    }
+}
