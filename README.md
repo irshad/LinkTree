@@ -17,7 +17,7 @@ Replace (Your Country) with Your Country Name<br>
 Line No: 74 replace (Your Mail) with your gmail without brackets 
 
 ## Contact Me
-Irshad Ali
-phonerefer@gmail.com
-https://irshadali.site
+👨‍💻 Irshad Ali<br>
+📝 phonerefer@gmail.com<br>
+🌍 https://irshadali.site
 
