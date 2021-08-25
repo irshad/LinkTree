@@ -5,7 +5,7 @@ details.
 To host you can use either<br>
 <b>Github Pages: </b> https://pages.github.com
 <br> or <br>
-<b>Netlify: </b> https://netlify.com
+<b>Netlify: </b> https://netlify.app
 
 # Change Photos
 Line No: 5 This is favicon<br>
