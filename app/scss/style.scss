@@ -21,7 +21,7 @@ body {
     width: 120px;
 }
 
-a, a.featured {    
+a, a.featured {
     &:hover {
         background-color: #060042;
         color: #ffffff;
@@ -38,7 +38,7 @@ a {
     border: 2px solid #ffffff;
     text-decoration: none;
     transition: all 200ms ease-in-out;
-    
+
     &.featured {
         position: relative;
         background-color: #ffffff;
@@ -49,7 +49,7 @@ a {
             content: "";
             position: absolute;
             top: 2px;
-            left: 2px;            
+            left: 2px;
             width: calc(100% - 4px);
             height: calc(100% - 4px);
             border: 2px solid #060042;
@@ -68,7 +68,7 @@ h2 {
     display: flex;
     max-width: 400px;
     margin: 0 auto;
-    
+
     a {
         flex: 1;
         padding: 5px 10px;
